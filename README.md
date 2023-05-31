@@ -1,4 +1,4 @@
-# bili-SkinNumber
+# bili-SkinToolbox
 
 主要是用来录制装扮开售时装扮编号，作者没有精力更新维护，理论长期可用
 
