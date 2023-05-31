@@ -10,7 +10,7 @@
 
 2023年5月31日：支持长ID的获取
 
-![](https://github.com/sakurasvip2023/bili-SkinNumber/blob/main/image/20230531174201.jpg)
+![image](https://github.com/sakurasvip2023/bili-SkinNumber/blob/main/image/20230531174201.jpg)
 
 本项目仅供学习交流使用，请勿用于任何违法、商业用途。
 
